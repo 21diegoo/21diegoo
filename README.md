@@ -1,10 +1,14 @@
-# 
+# Coca-Cola
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Es una bebida azucarada gaseosa vendida a nivel mundial en tiendas, restaurantes y máquinas expendedoras en más de doscientos países o territorios._
 
-## Comenzando 🚀
+## Historia 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_El 8 de mayo de 1886, en la farmacia Jacobs, en Atlanta, el farmacéutico John Stith Pemberton comenzó la comercialización de un jarabe ideado para combatir los problemas de digestión que además aportase energía. Durante los primeros tiempos, vendía cada día alrededor de nueve vasos, a un precio de 5 centavos por vaso.
+
+Pemberton no tardó en darse cuenta de que la bebida que había creado podía ser un éxito. Su contable, Frank Robinson, fue quien ideó la marca Coca-Cola y diseñó el logotipo. En 1891 se fundó The Coca-Cola Company, formada por el también farmacéutico Asa G. Candler, su hermano John S. Candler y Frank Robinson. Dos años después registraron la marca en la Oficina de Registro de la Propiedad Industrial de los Estados Unidos.
+
+Existe otra versión histórica sobre el origen de la bebida, cuyo descubrimiento tuvo lugar en 1885 en una fábrica valenciana de licores en España6​7​8​ Esta bebida edulcorante inicial llamada "Bebida de Nuez de Kola-Coca" fue llevada a distintas exposiciones internacionales como la de Philadelfia y regalada también como muestra a distintas personas en Estados Unidos en 1885. En 1953 Coca-Cola compró los derechos del producto inicial a la fábrica valenciana, y desde entonces es fabricado por esta última un licor distinto a la bebida inicial con el nombre de "Licor de Nuez de Kola-Coca"._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
