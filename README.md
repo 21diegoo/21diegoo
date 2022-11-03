@@ -3,8 +3,8 @@
 _Es una bebida azucarada gaseosa vendida a nivel mundial en tiendas, restaurantes y máquinas expendedoras en más de doscientos países o territorios._
 
 1. Historia
-2. 
-3. 
+2. Sabor e ingredientes 
+3. Publicidad
 
 
 
@@ -17,13 +17,13 @@ Pemberton no tardó en darse cuenta de que la bebida que había creado podía se
 Existe otra versión histórica sobre el origen de la bebida, cuyo descubrimiento tuvo lugar en 1885 en una fábrica valenciana de licores en España6. Esta bebida edulcorante inicial llamada "Bebida de Nuez de Kola-Coca" fue llevada a distintas exposiciones internacionales como la de Philadelfia y regalada también como muestra a distintas personas en Estados Unidos en 1885. En 1953 Coca-Cola compró los derechos del producto inicial a la fábrica valenciana, y desde entonces es fabricado por esta última un licor distinto a la bebida inicial con el nombre de "Licor de Nuez de Kola-Coca"._
 
 
-### Pre-requisitos 📋
+### Sabor e ingredientes 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_El distintivo sabor a cola proviene en su mayoría de la mezcla de azúcar y aceites de naranja, limón y vainilla. Los otros ingredientes cambian el sabor tan solo ligeramente. En algunos países, como Estados Unidos y Argentina la Coca-Cola es endulzada con jarabe de maíz. En México y Europa Coca-Cola sigue usando azúcar. En México se legisló, durante el mandato del expresidente Vicente Fox, a favor de permitir el uso de fructosa para endulzar las bebidas como Coca-Cola, debido a que es más barata; al mismo tiempo provocó una ola de protestas campesinas en todo México y varios ingenios cañeros del país emplazaron a huelga, pero estas medidas no lograron que la legislación mexicana diera marcha atrás._
 
-```
-Da un ejemplo
-```
+* Hoja de coca: La empresa Coca-Cola no menciona el empleo de los extractos de la planta de la coca en su sitio web oficial. Coca-Cola contiene saborizantes extraídos de la hoja de coca producidos por la Compañía Stepan de Chicago, Illinois; las hojas de coca son adquiridas legalmente (115 toneladas anuales aproximadamente) con permiso del Departamento de Justicia de los Estados Unidos a través de Empresa Nacional de la Coca en Perú
+* Cafeina: Uno de los ingredientes que contiene la Coca-Cola es la cafeína, que es considerada un estimulante ligero, aunque la Organización Mundial de la Salud (OMS) considera un error comparar la cafeína con sustancias altamente adictivas. Una botella de 235 ml de Coca-Cola contiene 23 mg de cafeína, mientras que 235 ml de café común, no descafeinado, contienen entre 61 y 164 mg de cafeína.
+
 
 ### Instalación 🔧
 
@@ -102,11 +102,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
+
 
 
 
