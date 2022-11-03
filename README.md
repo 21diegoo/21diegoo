@@ -27,4 +27,4 @@ _El distintivo sabor a cola proviene en su mayoría de la mezcla de azúcar y ac
 ### Publicidad ☄️
 
 _Los anuncios de Coca-Cola siempre se caracterizan por la polémica que causan. Estos spots se caracterizan por incluir alguna música pegadiza, un mensaje profundo o, simplemente, por su larga duración._
-![This is an image]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/100_A%C3%B1os_Coca_Cola.jpg/236px-100_A%C3%B1os_Coca_Cola.jpg])
+![This is an image]([C:\Users\Diego\Pictures\Saved Pictures])
