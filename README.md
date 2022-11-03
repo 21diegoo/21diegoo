@@ -27,4 +27,28 @@ _El distintivo sabor a cola proviene en su mayoría de la mezcla de azúcar y ac
 ### Publicidad ☄️
 
 _Los anuncios de Coca-Cola siempre se caracterizan por la polémica que causan. Estos spots se caracterizan por incluir alguna música pegadiza, un mensaje profundo o, simplemente, por su larga duración._
-![This is an image]([C:\Users\Diego\Pictures\Saved Pictures])
+
+_En el centenario de Coca-Cola, se construyó en Arica (Chile) el logotipo más grande del mundo, hecho con 70 000 botellas de Coca-Cola. Sus medidas son de 120 m × 50 m._
+
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/100_A%C3%B1os_Coca_Cola.jpg/236px-100_A%C3%B1os_Coca_Cola.jpg)
+
+_Una camioneta pintada de rojo y el logo de la empresa en el centro._
+
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Coca-Cola_car_Volkswagen_Type-2_2_Curitiba.jpg/300px-Coca-Cola_car_Volkswagen_Type-2_2_Curitiba.jpg)
+
+- [ ] no deberias abusar del consumo de cocacola
+- [x] La cocacola contiene gran cantidad de cafeína
+- [x] La cocacola es uno de los refrescos más famosos del mundo
+
+otros modelos de cocacola 
+
+| Nombre        | año |
+| ------------- | ------------- |
+| Vanilla       |  2019         |
+| Cinammon      |  2019         |
+| Ginger        |  2016         |
+| Cherry        |  1985         |
+| Lemon         |  2001         |
+| Life          |  2013         |
+
+
