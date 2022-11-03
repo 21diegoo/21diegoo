@@ -1,4 +1,4 @@
-# Coca-Cola
+A# Coca-Cola
 
 _Es una bebida azucarada gaseosa vendida a nivel mundial en tiendas, restaurantes y máquinas expendedoras en más de doscientos países o territorios._
 
